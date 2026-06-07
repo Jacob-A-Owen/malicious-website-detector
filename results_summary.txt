@@ -1,0 +1,5 @@
+winner=RandForest
+threshold=0.13
+cost_fn=1000 cost_fp=50
+tn=7018 fp=2 fn=7 tp=298
+total_cost=7100
