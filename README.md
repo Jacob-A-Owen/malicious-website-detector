@@ -1,20 +1,12 @@
-\# Malicious Website Detector
+# Malicious Website Detector
 
+## Screenshots
 
+![Training Labels](labels.png)
 
-\## Screenshots
+![Obfuscated JavaScript Analysis](js_obf_len_box.png)
 
-
-
-!\[Training Labels](labels.png)
-
-
-
-!\[Obfuscated JavaScript Analysis](js\_obf\_len\_box.png)
-
-
-
-\## Project Overview
+## Project Overview
 
 
 
